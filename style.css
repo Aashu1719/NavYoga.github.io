@@ -1,0 +1,5 @@
+body{
+    background-color: wheat;
+    background: url(img/background.png) repeat center fixed; 
+    background-size: cover;
+}
